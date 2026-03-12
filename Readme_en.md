@@ -14,9 +14,12 @@ Thus, by turning the potentiometer knob, you make the motor repeat the movement 
 # Components
 
 **Arduino**: Uno (any compatible board will work)
+
 **Stepper motor**: 5V 28BYJ-48
+
 **Stepper motor driver**: ULN2003
-**Potentiometer**:
+
+**Potentiometer**: B5K (or another compatible)
 
 # Connection Diagram
 
